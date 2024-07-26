@@ -133,7 +133,9 @@ const IndexPage = () => {
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time. 😎
+        update in real-time. 😎...I have done! But, I cannot understanding React,
+        so I want to study them. Also I cannnot understanding Github. what is Push?
+        
       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
